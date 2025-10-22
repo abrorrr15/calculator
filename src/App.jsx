@@ -2,7 +2,8 @@ import Calculator from "./calculator/Calculator";
 function App() {
   return (
     <div>
-      <img src="/gorilla.jpg" />
+      <img style={{objectFit: "contain", objectPosition: "center"}} src="/gorilla.jpg" />
+      {/* <Calculator /> */}
     </div>
   );
 }
