@@ -1,9 +1,9 @@
 import Calculator from "./calculator/Calculator";
 function App() {
   return (
-    <>
-      <Calculator />
-    </>
+    <div>
+      <img src="/gorilla.jpg" />
+    </div>
   );
 }
 
